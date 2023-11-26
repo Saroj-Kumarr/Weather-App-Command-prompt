@@ -1,4 +1,3 @@
-const { response } = require("express");
 const request = require("request");
 
 const getForecast = (city, callback) => {
